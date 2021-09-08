@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "5d1c388c8bd95d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b43033c77e84fdf",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32a7bab6408244e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cef424a17ad2127a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b410b76d2de2a1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "54c06bbeb6ffba48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ca1572cd618f872",
+    "type": "split",
+    "children": [
+      {
+        "id": "e53890c616fc224f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598c230a2f565b53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7b43033c77e84fdf",
+  "lastOpenFiles": [
+    "2020-03-01-how-to.md",
+    "2020-03-01-features.md"
+  ]
+}
