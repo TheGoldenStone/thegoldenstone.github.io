@@ -2,6 +2,7 @@
 title: War Memories
 notetype : feed
 date : 08-09-2021
+comments: true
 ---
 
 # War Memories

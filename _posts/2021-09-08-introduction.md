@@ -1,5 +1,6 @@
 ---
 title: War Memories
+comments: true
 ---
 
 # War Memories
