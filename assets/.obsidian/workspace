@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "72b4c41baee484b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3793f1c82bb0edf4",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "img/sun.svg"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a64fae99cd02e234",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb81c86736fc2ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e651e142d5c9c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "042a58c4bdafe5f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79ebea1d296b920e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f298f0b7183490a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe403c04ad7a977e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/sun.svg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3793f1c82bb0edf4",
+  "lastOpenFiles": [
+    "img/sun.svg",
+    "img/screenshot-mixed.png",
+    "img/favicon.png",
+    "img/7-how-to.png",
+    "img/1-how-to.png",
+    "img/moon.svg",
+    "img/2-how-to.png"
+  ]
+}
