@@ -11,6 +11,6 @@ Second son of Melgan, the previous king; Kardan found that his older brother was
 
 He couldn't save his father, but he faced the enemies of the nation in a very well-known battle that took place on the throne room, where he killed Revan (his older brother) and Melsazar (the leader of the Valnaar revolucionaries).
 
-He kept his reign with justice among his people and fury against the enemies until the "Black Day of Windforests", where he fought with all the army to protect the kingdom against the Valanaar.
+He kept his reign with justice among his people and fury against the enemies until the "Black Day of Windforests", where he fought with his army to protect the kingdom against the Valanaar.
 
-Battle which humanity lost, and place where King Kardan disappeared.
+A battle which humanity lost, and the place where King Kardan disappeared.
